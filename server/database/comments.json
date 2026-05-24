@@ -1,0 +1,46 @@
+[
+  {
+    "id": "comment-1",
+    "caseId": "case-2",
+    "userId": "user-2",
+    "text": "Happy Paws Rescue team is heading there now. We are bringing a food trap and some blankets.",
+    "createdAt": "2026-05-24T11:45:00.000Z"
+  },
+  {
+    "id": "comment-2",
+    "caseId": "case-2",
+    "userId": "user-4",
+    "text": "Thank you! I will stay nearby and keep an eye on him so he doesn't wander off.",
+    "createdAt": "2026-05-24T11:50:00.000Z"
+  },
+  {
+    "id": "comment-3",
+    "caseId": "case-1",
+    "userId": "user-1779628438447",
+    "text": "I'm heading to Carter Road promenade right now. Bringing puppy food.",
+    "createdAt": "2026-05-24T12:05:00.000Z"
+  },
+  {
+    "id": "comment-4",
+    "caseId": "case-4",
+    "userId": "user-2",
+    "text": "Happy Paws Rescue team has arrived at Shivaji Park. We see the kitten next to the green sedan.",
+    "createdAt": "2026-05-24T14:15:00.000Z"
+  },
+  {
+    "id": "comment-5",
+    "caseId": "case-4",
+    "userId": "user-2",
+    "text": "Shared rescue proof for reporter confirmation.",
+    "photoUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=600",
+    "kind": "rescue-proof",
+    "createdAt": "2026-05-24T14:30:00.000Z"
+  },
+  {
+    "id": "comment-6",
+    "caseId": "case-4",
+    "userId": "system",
+    "text": "changed status to *resolved* and assigned to Happy Paws Rescue",
+    "createdAt": "2026-05-24T14:35:00.000Z"
+  }
+]

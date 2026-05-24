@@ -1,0 +1,55 @@
+[
+  {
+    "id": "case-1",
+    "title": "Sweet puppy looking for shelter",
+    "description": "Found this adorable little puppy wandering near Carter Road. He looks a bit lost, hungry, and has very sad eyes, but he is extremely gentle and friendly. Needs a warm foster home and some food.",
+    "photoUrl": "/images/dog-2.png",
+    "latitude": 19.062,
+    "longitude": 72.835,
+    "locationName": "Carter Road Promenade, Bandra West, Mumbai",
+    "reporterId": "user-1",
+    "status": "in_progress",
+    "assignedTo": "user-1779628438447",
+    "createdAt": "2026-05-24T10:00:00.000Z"
+  },
+  {
+    "id": "case-2",
+    "title": "Injured dog hiding beside a tea stall",
+    "description": "A nervous street dog with a visible limp is hiding beside a tea stall and avoiding movement. Locals say he has not eaten since morning.",
+    "photoUrl": "/images/dog-1.jpg",
+    "latitude": 19.0768,
+    "longitude": 72.8347,
+    "locationName": "Khar Linking Road Corner, Mumbai",
+    "reporterId": "user-4",
+    "status": "open",
+    "assignedTo": null,
+    "createdAt": "2026-05-24T11:30:00.000Z"
+  },
+  {
+    "id": "case-3",
+    "title": "Stray kitten with injured tail",
+    "description": "Found a small kitten with a bloodied tail near the Lokhandwala market dumpsters. Seems to be in pain but reachable.",
+    "photoUrl": "/images/kitten-1.png",
+    "latitude": 19.119,
+    "longitude": 72.8465,
+    "locationName": "Lokhandwala Market, Andheri West, Mumbai",
+    "reporterId": "user-1",
+    "status": "open",
+    "assignedTo": null,
+    "createdAt": "2026-05-24T13:20:00.000Z"
+  },
+  {
+    "id": "case-4",
+    "title": "Tiny kitten shivering in the cold",
+    "description": "This sweet, tiny calico kitten was found crying next to a car wheel, shivering in the cold wind. She is very small and needs a warm, safe place to stay.",
+    "photoUrl": "/images/kitten-2.png",
+    "proofPhotoUrl": "/images/rescued-kitten.png",
+    "latitude": 19.022,
+    "longitude": 72.843,
+    "locationName": "Shivaji Park, Dadar, Mumbai",
+    "reporterId": "user-4",
+    "status": "resolved",
+    "assignedTo": "user-2",
+    "createdAt": "2026-05-24T14:05:00.000Z"
+  }
+]

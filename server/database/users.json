@@ -1,0 +1,52 @@
+[
+  {
+    "id": "user-1",
+    "name": "Jane Doe",
+    "email": "jane@example.com",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+    "role": "user",
+    "bio": "Animal lover, volunteer rescuer.",
+    "location": "Bandra West, Mumbai",
+    "work": "Graphic Designer"
+  },
+  {
+    "id": "user-2",
+    "name": "Happy Paws Rescue",
+    "email": "info@happypaws.org",
+    "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=150",
+    "role": "ngo",
+    "bio": "Non-profit organization helping stray dogs and cats find homes.",
+    "location": "Mahalaxmi, Mumbai",
+    "work": "NGO Foundation"
+  },
+  {
+    "id": "user-3",
+    "name": "Metro Vet Clinic",
+    "email": "contact@metrovet.com",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+    "role": "vet",
+    "bio": "24/7 Veterinary emergency and animal care clinic.",
+    "location": "Worli, Mumbai",
+    "work": "Veterinary Hospital"
+  },
+  {
+    "id": "user-4",
+    "name": "John Smith",
+    "email": "john@example.com",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "role": "user",
+    "bio": "Dog foster parent, street rescue volunteer.",
+    "location": "Dadar East, Mumbai",
+    "work": "Software Engineer"
+  },
+  {
+    "id": "user-1779628438447",
+    "name": "Aditya",
+    "email": "iaditya8424@gmail.com",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+    "role": "user",
+    "bio": "Hii",
+    "location": "Mumbai",
+    "work": "NA"
+  }
+]
